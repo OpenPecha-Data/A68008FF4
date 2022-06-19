@@ -1,0 +1,19 @@
+segment_sources:
+  I195838E8:
+    type: origin_type
+    relation: translation
+    language: en
+  I04E6186B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f8e8ac6cc15d44488ce89b323731826f:
+    I195838E8: e885cc00487f42de81696c5deabaa378
+    I04E6186B: fee01041d5c04753aa5ead7cce616d9c
+  b598e2a55f984b3683c000ab38b44f63:
+    I195838E8: c285e01b54044aa38c9deb6b9185a5eb
+    I04E6186B: b604d739f73340dd9417dfe6d58c6261
+  3fe9fd3fb3c341f19b497ed5601e83fd:
+    I195838E8: fba54da7eddc41e7bf41dc8dd2c035c0
+    I04E6186B: bc72cb92512146ee99089da1af3b66f4
